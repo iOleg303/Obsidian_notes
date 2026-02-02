@@ -164,14 +164,23 @@
               "icon": "lucide-list",
               "title": "Структура Загрузка Приходных Накладных"
             }
+          },
+          {
+            "id": "3aad73be2021790f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +196,9 @@
   },
   "active": "f4506e4b6311bc6f",
   "lastOpenFiles": [
+    "1С РОЗНИЦА/Общий таск.md",
     "1С РОЗНИЦА/Пользователи/Пользователи.md",
     "Без названия.base",
-    "1С РОЗНИЦА/Общий таск.md",
     "Служение/Проповеди/Ждите обещанного от Отца.md",
     "Служение/Проповеди/Пробуждение.md",
     "Служение/Проповеди/Живые камни.md",
