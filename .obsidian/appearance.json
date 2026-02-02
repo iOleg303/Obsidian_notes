@@ -1,7 +1,4 @@
 {
-  "baseFontSize": 20,
-  "baseFontSizeAction": true,
-  "nativeMenus": false,
   "cssTheme": "Minimal",
-  "accentColor": "#bad8e9"
+  "baseFontSizeAction": true
 }
