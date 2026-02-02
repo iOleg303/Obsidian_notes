@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1С РОЗНИЦА/Приходная накладная/Загрузка расходных накладных.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
