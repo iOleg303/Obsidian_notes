@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1С РОЗНИЦА/Загрузка Приходных Накладных.md",
+                "file": "1С РОЗНИЦА/Общий таск.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Загрузка Приходных Накладных"
+              "title": "Структура Общий таск"
             }
           },
           {
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4506e4b6311bc6f",
+  "active": "3aad73be2021790f",
   "lastOpenFiles": [
     "1С РОЗНИЦА/Общий таск.md",
     "1С РОЗНИЦА/Пользователи/Пользователи.md",
