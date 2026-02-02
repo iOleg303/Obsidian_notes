@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "81c2d5178b0e4854",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae382a6dff8458bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4506e4b6311bc6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1С РОЗНИЦА/Общий таск.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Общий таск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b9564ae0f0584a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "af5068c54db30b4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ad414ef1f1937aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "977fa6ae73196000",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4ff6b8238dd42711",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5110321044922
+  },
+  "right": {
+    "id": "4579407983deffa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e2407279f16523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a15a9e8cc1a1e823",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1С РОЗНИЦА/Загрузка Приходных Накладных.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Загрузка Приходных Накладных"
+            }
+          },
+          {
+            "id": "7314528c0adfab09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1С РОЗНИЦА/Загрузка Приходных Накладных().md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Загрузка Приходных Накладных()"
+            }
+          },
+          {
+            "id": "b47d2834d3595520",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "80547690cddfef97",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "26145e1dc77a9484",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1С РОЗНИЦА/Загрузка Приходных Накладных.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Загрузка Приходных Накладных"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f4506e4b6311bc6f",
+  "lastOpenFiles": [
+    "1С РОЗНИЦА/Пользователи/Пользователи.md",
+    "Без названия.base",
+    "1С РОЗНИЦА/Общий таск.md",
+    "Служение/Проповеди/Ждите обещанного от Отца.md",
+    "Служение/Проповеди/Пробуждение.md",
+    "Служение/Проповеди/Живые камни.md",
+    "Служение/Мероприятия/Евангелизация Рождество 2025/Викторина.md",
+    "Служение/Мероприятия/Евангелизация Рождество 2025/Евангелие.md",
+    "Служение/Мероприятия/Евангелизация Рождество 2025/История Рождества.md",
+    "Служение/Мероприятия/Евангелизация Рождество 2025/Программа служения.md",
+    "Служение/Мероприятия/Евангелизация Рождество 2025/Евангелие на пальцах.md",
+    "1С РОЗНИЦА/Приходная накладная/Загрузка расходных накладных.md",
+    "Служение/Мероприятия/Евангелизация Рождество 2025",
+    "Служение/Мероприятия",
+    "Служение/Викторины/КНИГА ДЕЯНИЙ.md",
+    "1С РОЗНИЦА/Приходная накладная/Выполнить.md",
+    "1С РОЗНИЦА/Приходная накладная/Приходная накладная.md",
+    "1С РОЗНИЦА/Товары.md",
+    "Служение",
+    "Служение/Викторины",
+    "Служение/Проповеди",
+    "1С РОЗНИЦА/Пользователи/Справочник Пользователи.md",
+    "1С РОЗНИЦА/Приходная накладная",
+    "1С РОЗНИЦА/Пользователи",
+    "1С РОЗНИЦА/Пользователи/Роли.md",
+    "1С РОЗНИЦА/Роли Администратор и Оператор.md",
+    "1С РОЗНИЦА/Таски.md",
+    "Мед преды",
+    "1С РОЗНИЦА/Процедура ПриОткрытии().md",
+    "1С РОЗНИЦА/Tot.md",
+    "Без названия.canvas",
+    "Без названия.md",
+    "Загрузка Приходных Накладных.md",
+    "Google Keep/01-09-2015 22_35_.md",
+    "Google Keep/Без названия.base",
+    "Без названия 1.canvas",
+    "Google Keep/1 день утро_.md",
+    "Google Keep/Assets/1741077281093.490967.169769525.jpg",
+    "Google Keep/Assets/1670059455434.541992.15178733.jpg",
+    "Google Keep/Assets/1638021883218.953125.2119141803.jpg",
+    "Google Keep/Assets/1647266244762.931885.2928162542.jpg",
+    "Google Keep/Assets/1546276878435.348145.286277673.png",
+    "Google Keep/Assets/1718196295739.112793.670942117.jpg",
+    "Google Keep/Assets/1752167096113.896729.3263691236.jpg"
+  ]
+}
