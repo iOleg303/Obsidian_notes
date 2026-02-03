@@ -1,0 +1,10 @@
+# Игнорируем индивидуальные настройки интерфейса и рабочего пространства
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+.obsidian/core-plugins.json
+.obsidian/core-plugins-migration.json
+
+# Игнорируем кэш
+.obsidian/cache/
