@@ -1,6 +1,6 @@
 {
   "main": {
-    "id": "8f1f979830be02ad",
+    "id": "897859b75f7dac32",
     "type": "split",
     "children": [
       {
@@ -35,17 +35,18 @@
               "title": "02.02 вечер"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5614fa9235e12362",
+    "id": "e3ad9bf6a54f3bdc",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0d7547ebf2f9e3e4",
+        "id": "68ac0e3b5b2882d3",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -54,11 +55,11 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Файловый менеджер"
+          "title": "Files"
         }
       },
       {
-        "id": "3f18e2cb30718f41",
+        "id": "01c4e6ac128d6ff4",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -75,7 +76,7 @@
         }
       },
       {
-        "id": "3032209878b83c79",
+        "id": "30902c0e1682b68d",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -90,7 +91,7 @@
         }
       },
       {
-        "id": "b66c0f001654e2a1",
+        "id": "06011386fe02e7fd",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -104,7 +105,7 @@
         }
       },
       {
-        "id": "150f77086768dbaa",
+        "id": "28967030b3f7aabe",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -117,11 +118,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3b3efbaaae73a3ea",
+    "id": "01b7bae866ab8ef7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "512565c2b9d1e949",
+        "id": "0b04ad59b2ecdfbe",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -140,7 +141,7 @@
         }
       },
       {
-        "id": "92387406af70ac76",
+        "id": "7659c4f691d6bedc",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -153,7 +154,7 @@
         }
       },
       {
-        "id": "52d4bb7b8f235d4e",
+        "id": "c6d65f188b2c7096",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -167,7 +168,7 @@
         }
       },
       {
-        "id": "100ffb9d35a420f7",
+        "id": "ac868f2ae56727a5",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -193,8 +194,14 @@
   },
   "active": "3c3250d27b57b7de",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "1С РОЗНИЦА/New note.md",
     "Служение/События - конспект/Братский семинар 02-07.26/02.02 вечер.md",
+    "/1С РОЗНИЦА/Приходная накладная/Загрузка расходных накладных.md",
+    "/1С РОЗНИЦА/Приходная накладная",
+    "/1С РОЗНИЦА/Общий таск.md",
+    "/1С РОЗНИЦА/New note.md",
+    "/1С РОЗНИЦА",
+    "conflict-files-obsidian-git.md",
     "Служение/Мероприятия/Евангелизация Рождество 2025/История Рождества.md",
     "Служение/Мероприятия/Евангелизация Рождество 2025/Викторина.md",
     "Служение/Викторины/КНИГА ДЕЯНИЙ.md",
@@ -220,12 +227,6 @@
     "Служение/Проповеди/Живые камни.md",
     "Служение/Проповеди/Ждите обещанного от Отца.md",
     "Служение/Мероприятия",
-    "Служение/Проповеди",
-    "Служение/Мероприятия",
-    "Служение/Викторины",
-    "Служение",
-    "1С РОЗНИЦА/Приходная накладная",
-    "1С РОЗНИЦА/Пользователи",
-    "1С РОЗНИЦА"
+    "Служение/Проповеди"
   ]
 }
