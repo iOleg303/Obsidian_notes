@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "4d12579495e41a2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e33bf6a09acd665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f65603e8be3d726",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "665ac714f20d83be",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "77330dbb8417f103",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "e64349473f5c80e1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "d9006ada1ce08a1b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "a7db2d7d8fe4850b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Все свойства"
+        }
+      },
+      {
+        "id": "d5258f4955def8f4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c759a1baace7f7e4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "edc5362d62c83548",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Служение/События - конспект/Братский семинар 02-07.26/03.02 Брат Петя Борщ.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "bd10bbe080017b9a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Служение/События - конспект/Братский семинар 02-07.26/03.02 Брат Петя Борщ.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "430801f4badfcedd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Служение/События - конспект/Братский семинар 02-07.26/03.02 Брат Петя Борщ.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      },
+      {
+        "id": "5002629451805a94",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1f65603e8be3d726",
+  "lastOpenFiles": [
+    "/Служение/События - конспект/Братский семинар 02-07.26/Общая, ссылки.md",
+    "/Служение/События - конспект/Братский семинар 02-07.26",
+    "/Служение/События - конспект",
+    "/Служение",
+    "Служение/События - конспект/Братский семинар 02-07.26/Общая, ссылки.md",
+    "Служение/События - конспект/Братский семинар 02-07.26/Роль Духа Святого в жизни служителя.md",
+    "Служение/События - конспект/Братский семинар 02-07.26/IMG_2380.jpeg",
+    "Служение/События - конспект/Братский семинар 02-07.26/Благословенные возможности.md",
+    "Служение/События - конспект/Братский семинар 02-07.26/Вечернее служение, открытие.md",
+    "Служение/События - конспект/Братский семинар 02-07.26/Открытие семинара.md",
+    "Служение/События - конспект/Братский семинар 02-07.26/03.02 Брат Петя Борщ.md",
+    "Служение/События - конспект/Братский семинар 02-07.26/IMG_2381.jpeg"
+  ]
+}
