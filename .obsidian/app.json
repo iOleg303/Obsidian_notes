@@ -28,6 +28,10 @@
     "editor:toggle-checklist-status",
     "editor:indent-list",
     "editor:unindent-list",
+    "editor:table-col-align-left",
+    "editor:context-menu",
+    "editor:table-col-align-center",
+    "editor:table-col-align-right",
     "editor:configure-toolbar"
   ]
 }
