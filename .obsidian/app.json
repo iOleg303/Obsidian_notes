@@ -30,5 +30,6 @@
     "editor:unindent-list",
     "editor:configure-toolbar"
   ],
-  "tabSize": 3
+  "tabSize": 3,
+  "readableLineLength": false
 }
