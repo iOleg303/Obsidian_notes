@@ -31,5 +31,5 @@
     "editor:configure-toolbar"
   ],
   "tabSize": 3,
-  "readableLineLength": false
+  "readableLineLength": true
 }
